@@ -40,6 +40,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/slysinema"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=slysinema&stroke=f97316&background=0f172a&ring=f97316&fire=f97316&currStreakNum=f97316&currStreakLabel=f97316&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a><a href="https://github.com/slysinema" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slysinema&langs_count=10&title_color=f97316&text_color=f97316&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                    </a></p>
+                    
+### Badges
+<p>My GitHub Stats</p>
+                    <a href="http://www.github.com/slysinema"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=slysinema&stroke=f97316&background=0f172a&ring=f97316&fire=f97316&currStreakNum=f97316&currStreakLabel=f97316&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a><a href="https://github.com/slysinema" align="left"></a>
